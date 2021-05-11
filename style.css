@@ -1,0 +1,90 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(207, 206, 206);
+}
+
+#main{
+ background-color: rgb(240, 240, 240); 
+  margin: 2rem 0.6rem;
+  border-radius: 5px;
+  line-height: 1.5;
+ 
+}
+
+#main h1 {
+  align-items: center;
+  text-align: center;
+  padding: 2.6rem 0 0 0;
+  font-size: 2.8rem;
+}
+
+#main #lead {
+  text-align: center;
+  font-size: 1rem;
+  color: #888;
+  padding: 0.9rem 0rem 0rem 0;
+}
+
+#img-div {
+  max-width: 1000px;
+  margin: 2rem auto;
+ }
+
+ #img-caption  {
+ margin: 0.5rem 1.3rem;
+ color: #111;
+ 
+ }
+
+
+ #tribute-info{
+   max-width: 600px;
+   margin: 2rem auto;
+   word-break: 1.1rem;
+   background-color: rgb(240, 240, 240);
+ }
+ 
+ #tribute-info h3 {
+   text-align: center;
+    margin: 2.7rem auto;
+    color: #333;
+ }
+
+ #tribute-info ul li {
+   margin: 1rem 0;
+   color: #333;
+ }
+
+ #tribute-info ul {
+   margin: 2.5rem 0;
+ }
+
+ .em-p {
+  max-width: 550px;
+  margin: 2rem auto;
+  word-break: 1.1rem;
+  margin-left: 11.5rem;
+ }
+ .em-2 {
+   margin-top: -0.5rem;
+ }
+
+ #learn-more-p {
+   font-weight: bold;
+   text-align: center;
+   font-size: 1.1rem;
+   color: #333;
+   padding: 1rem 0;
+   padding-bottom: 2.4rem;
+ }
+
+  strong {
+    font-weight: bold;
+  }
+
